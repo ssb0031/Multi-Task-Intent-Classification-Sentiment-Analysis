@@ -1,0 +1,18 @@
+{
+  "en→te (fine-tuned)": {
+    "Direction": "English → Telugu (Fine-tuned)",
+    "BLEU": 58.65022539367581,
+    "CHRF": 80.97929444517517,
+    "TER": 27.64396502629728,
+    "ROUGE-L": 0.08814003402142997,
+    "Fuzzy-Sim": 0.9635071230659844
+  },
+  "te→en (baseline)": {
+    "Direction": "Telugu → English (Pretrained Baseline)",
+    "BLEU": 14.019050283450401,
+    "CHRF": 41.650358514072124,
+    "TER": 92.07577712016592,
+    "ROUGE-L": 0.48514009415510506,
+    "Fuzzy-Sim": 0.6906177100348003
+  }
+}

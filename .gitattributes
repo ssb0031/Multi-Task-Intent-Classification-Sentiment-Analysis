@@ -1,2 +1,16 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Ensure that .py files are always LF
+*.py text eol=lf
+
+# Binary files
+*.pt binary
+*.pth binary
+*.bin binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
