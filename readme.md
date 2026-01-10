@@ -20,17 +20,6 @@ The model employs a phased approach:
 4. **Phase 4**: Enable sentiment-intent fusion
 5. **Phase 5**: Final fine-tuning
 
-## 📁 Project Structure
-├── Intent Classification + Sentiment.py # Main training script
-├── requirements.txt # Dependencies
-├── runs/ # Training outputs
-│ ├── phase1/ # Phase 1 results
-│ ├── phase2/ # Phase 2 results
-│ └── ... # Additional phases
-├── training_history.csv # Training metrics
-├── response_data.json # Validation responses
-└── training_metrics_summary.png # Summary visualization
-
 
 ## ⚙️ Requirements
 
